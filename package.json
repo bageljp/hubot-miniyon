@@ -1,27 +1,23 @@
 {
   "name": "hubot-miniyon",
+  "description": "hubot miniyon labo",
   "version": "0.0.1",
   "private": true,
-  "author": "kadoyama.keisuke@gmail.com",
-  "description": "miniyon labo hubot",
+  "author": "Keisuke Kadoyama <kadoyama.keisuke@gmail.com>",
   "dependencies": {
-    "google-auth-library": "^0.12.0",
-    "googleapis": "^23.0.0",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
+    "hubot-google-calendar": "bageljp/hubot-google-calendar#miniyon",
     "hubot-google-images": "^0.2.7",
     "hubot-google-translate": "^0.2.1",
     "hubot-help": "^0.2.2",
-    "hubot-heroku-keepalive": "^1.0.3",
     "hubot-maps": "0.0.3",
     "hubot-pugme": "^0.1.1",
     "hubot-redis-brain": "0.0.4",
     "hubot-rules": "^0.1.2",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1",
-    "hubot-slack": "^4.4.0",
-    "js-yaml": "^3.10.0",
-    "moment-timezone": "^0.5.14"
+    "hubot-slack": "^4.4.0"
   },
   "engines": {
     "node": "8.x.x"

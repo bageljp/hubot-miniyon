@@ -3,6 +3,7 @@
   "hubot-help",
   "hubot-google-images",
   "hubot-google-translate",
+  "hubot-google-calendar",
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
